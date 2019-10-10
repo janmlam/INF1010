@@ -1,0 +1,1 @@
+﻿javadoc -link http://download.oracle.com/javase/7/docs/api -d docdir *.java
